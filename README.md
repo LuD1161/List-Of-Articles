@@ -14,3 +14,7 @@ Since the bookmarks were overflowing :)
 
 ### Viruses and Malwares 
 1. [Smith's C virus writing guide](http://www.rohitab.com/discuss/topic/11308-smiths-c-virus-writing-guide/)
+
+
+### Learning C ( malicious obviously ;) )
+1. [Security Oriented C](https://null-byte.wonderhowto.com/how-to/security-oriented-c/)
