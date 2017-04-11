@@ -18,3 +18,10 @@ Since the bookmarks were overflowing :)
 
 ### Learning C ( malicious obviously ;) )
 1. [Security Oriented C](https://null-byte.wonderhowto.com/how-to/security-oriented-c/)
+2. [WinAPI - Starter](https://null-byte.wonderhowto.com/how-to/security-oriented-c-tutorial-0x22-introduction-winapi-0169897/)
+3. [Crypters - Article](https://github.com/LuD1161/List-Of-Articles/tree/master/Crypters-C)
+
+
+
+### References 
+1. [Windows API Reference - Microsoft](https://msdn.microsoft.com/en-au/library/windows/desktop/ff818516%28v=vs.85%29.aspx)
