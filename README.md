@@ -22,6 +22,9 @@ Since the bookmarks were overflowing :)
 3. [Crypters - Article](https://github.com/LuD1161/List-Of-Articles/tree/master/Crypters-C)
 
 
+### Linux Privilege Escalation
+1. [Linux Unconventional Priv-Esc](http://resources.infosecinstitute.com/privilege-escalation-linux-live-examples/)
+
 
 ### References 
 1. [Windows API Reference - Microsoft](https://msdn.microsoft.com/en-au/library/windows/desktop/ff818516%28v=vs.85%29.aspx)
