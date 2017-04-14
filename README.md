@@ -20,7 +20,7 @@ Since the bookmarks were overflowing :)
 1. [Security Oriented C](https://null-byte.wonderhowto.com/how-to/security-oriented-c/)
 2. [WinAPI - Starter](https://null-byte.wonderhowto.com/how-to/security-oriented-c-tutorial-0x22-introduction-winapi-0169897/)
 3. [Crypters - Article](https://github.com/LuD1161/List-Of-Articles/tree/master/Crypters-C)
-
+4. [Opensec Forum](https://www.opensc.ws/)
 
 ### Linux Privilege Escalation
 1. [Linux Unconventional Priv-Esc](http://resources.infosecinstitute.com/privilege-escalation-linux-live-examples/)
