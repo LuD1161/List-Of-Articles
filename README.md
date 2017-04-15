@@ -29,3 +29,7 @@ Since the bookmarks were overflowing :)
 
 ### References 
 1. [Windows API Reference - Microsoft](https://msdn.microsoft.com/en-au/library/windows/desktop/ff818516%28v=vs.85%29.aspx)
+
+
+### Linux - In General
+1. [Stealth startup services - init/rc.d](http://www.learn.cf/2017/03/stealth-launch-of-services-on-linux.html)
