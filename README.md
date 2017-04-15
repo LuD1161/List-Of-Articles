@@ -6,6 +6,7 @@ Since the bookmarks were overflowing :)
 1. [Windows DLL injection Basics](http://blog.opensecurityresearch.com/2013/01/windows-dll-injection-basics.html)
 2. [Python Code Injection](https://warroom.securestate.com/injecting-python-code-into-native-processes/)
 3. [Code injection techniques using PE injection](http://www.rohitab.com/discuss/topic/40160-inject-code-into-other-processes-using-pe-injection/)
+4. [All about dll-sideloading and phantom dlls](http://resources.infosecinstitute.com/dll-hijacking-attacks-revisited/)
 
 ### Keyloggers ( Code )
 1. [C++ Code](http://web.archive.org/web/20120321075520/http://thetechnofreak.com/technofreak/keylogger-visual-c/) 
