@@ -26,6 +26,13 @@ Since the bookmarks were overflowing :)
 ### Linux Privilege Escalation
 1. [Linux Unconventional Priv-Esc](http://resources.infosecinstitute.com/privilege-escalation-linux-live-examples/)
 
+### Exploit Writing Tutorial
+1. [The Shellcoder's Handbook](https://www.amazon.com/Shellcoders-Handbook-Discovering-Exploiting-Security/dp/047008023X_)
+2. [Hacking : The Art of Exploitation](http://www.amazon.in/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441)
+3. [Corlean exploit writing](https://www.corelan.be/index.php/category/security/exploit-writing-tutorials/)
+4. [ASM tutorial](http://www.asmtutor.com/)
+
+
 
 ### References 
 1. [Windows API Reference - Microsoft](https://msdn.microsoft.com/en-au/library/windows/desktop/ff818516%28v=vs.85%29.aspx)
