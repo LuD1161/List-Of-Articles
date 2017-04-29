@@ -40,3 +40,6 @@ Since the bookmarks were overflowing :)
 
 ### Linux - In General
 1. [Stealth startup services - init/rc.d](http://www.learn.cf/2017/03/stealth-launch-of-services-on-linux.html)
+
+### WebShell Backdooring
+1. [Image backdooring - Through exiftool](https://null-byte.wonderhowto.com/how-to/upload-shell-web-server-and-get-root-rfi-part-1-0162818)
