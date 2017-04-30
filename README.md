@@ -43,3 +43,10 @@ Since the bookmarks were overflowing :)
 
 ### WebShell Backdooring
 1. [Image backdooring - Through exiftool](https://null-byte.wonderhowto.com/how-to/upload-shell-web-server-and-get-root-rfi-part-1-0162818)
+
+
+
+## Other Section
+
+### Deep Learning
+1. [Deep learning in Python - fully preconfigured VM](https://medium.com/@ageitgey/try-deep-learning-in-python-now-with-a-fully-pre-configured-vm-1d97d4c3e9b)
