@@ -50,3 +50,6 @@ Since the bookmarks were overflowing :)
 
 ### Deep Learning
 1. [Deep learning in Python - fully preconfigured VM](https://medium.com/@ageitgey/try-deep-learning-in-python-now-with-a-fully-pre-configured-vm-1d97d4c3e9b)
+
+### Hardware
+1. [Cantenna ;) ](https://www.youtube.com/watch?v=NVjN9EK7B0E)
