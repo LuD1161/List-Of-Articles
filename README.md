@@ -53,3 +53,6 @@ Since the bookmarks were overflowing :)
 
 ### Hardware
 1. [Cantenna ;) ](https://www.youtube.com/watch?v=NVjN9EK7B0E)
+
+### News
+1. [Facebook's tentacles](http://www.bbc.com/news/business-39947942)
