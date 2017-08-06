@@ -33,6 +33,8 @@ Since the bookmarks were overflowing :)
 4. [ASM tutorial](http://www.asmtutor.com/)
 
 
+### Pentesting 
+1. [Evading Antiviruses](https://www.nopsec.com/blog/pen-testing-toolkit-tools-techniques-used-evade-antivirus-software/?utm_source=reddit)
 
 ### References 
 1. [Windows API Reference - Microsoft](https://msdn.microsoft.com/en-au/library/windows/desktop/ff818516%28v=vs.85%29.aspx)
