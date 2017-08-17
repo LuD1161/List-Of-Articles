@@ -58,3 +58,7 @@ Since the bookmarks were overflowing :)
 
 ### News
 1. [Facebook's tentacles](http://www.bbc.com/news/business-39947942)
+
+
+### SSL Unpinning
+1. [SSL unpinning in android applications - FB Messenger](https://serializethoughts.com/2016/08/18/bypassing-ssl-pinning-in-android-applications/)
